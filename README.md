@@ -1,5 +1,7 @@
 <h1>About MasatakaItoh</h1>
 
+<p>I'm a web application developer.</p>
+
 <h2>Skills</h2>
 
 <div align="left">
@@ -11,6 +13,6 @@
 <h2>Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasatakaItoh&theme=dark&layout=compact" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MasatakaItoh&theme=dark&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasatakaItoh&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MasatakaItoh&theme=dark&count_private=true" height="180" />
 </div>
