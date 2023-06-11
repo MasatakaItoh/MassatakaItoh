@@ -19,11 +19,7 @@
     
   <h3>Other</h3>
   <div><img src="https://skillicons.dev/icons?i=github,githubactions,idea,vim" /></div>
-</div>
-
-<h2>Stats</h2>
-
-<div align="left">
+  
+  <h3>Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasatakaItoh&theme=dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MasatakaItoh&theme=dark&count_private=true" height="180" />
 </div>
