@@ -1,22 +1,21 @@
-<h1>About MasatakaItoh</h1>
+<p align="center">
+  <img src="https://github.com/MasatakaItoh/MasatakaItoh/assets/58454172/b134d442-5a24-4494-bf45-315631a78b9c" width="120"/>
+  <img src="https://github.com/MasatakaItoh/MasatakaItoh/assets/58454172/b134d442-5a24-4494-bf45-315631a78b9c" width="120"/>
+  <img src="https://github.com/MasatakaItoh/MasatakaItoh/assets/58454172/b134d442-5a24-4494-bf45-315631a78b9c" width="120"/>
+  <img src="https://github.com/MasatakaItoh/MasatakaItoh/assets/58454172/b134d442-5a24-4494-bf45-315631a78b9c" width="100"/>
+  <img src="https://github.com/MasatakaItoh/MasatakaItoh/assets/58454172/b134d442-5a24-4494-bf45-315631a78b9c" width="110"/>
+</p>
 
-<p>I'm a Web Application Developer.</p>
+<h2>Masataka Ito</h2>
+<p><img src="https://img.shields.io/badge/job-web_application_developer-purple.svg?style=for-the-badge"/></p>
 
-<h2>Skills</h2>
+<h3>Favorite</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
 
-<div align="left">
-  <h3>Languages</h3>
-  <div><img src="https://skillicons.dev/icons?i=html,css,ts,nodejs,php" /></div>
-
-  <h3>Libraries & Frameworks</h3>
-  <div><img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,emotion,express,nestjs,laravel" /></div>
-  
-  <h3>DB</h3>
-  <div><img src="https://skillicons.dev/icons?i=graphql,apollo,postgres,mongodb,prisma,postman" /></div>
-  
-  <h3>Others</h3>
-  <div><img src="https://skillicons.dev/icons?i=vite,vitest,cloudflare,supabase,firebase,gcp,aws,vercel,docker,githubactions,figma" /></div>
-    
-  <h3>Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasatakaItoh&theme=dark" height="180" />
-</div>
+<h3>Stats</h3>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasatakaItoh&theme=dark" height="180" /></p>
